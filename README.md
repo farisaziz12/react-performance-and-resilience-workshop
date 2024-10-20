@@ -1,1 +1,1 @@
-# cityjs-workshop-2024
+# react-performance-and-resilience-workshop
